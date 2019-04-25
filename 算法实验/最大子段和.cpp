@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-//最大字段和 
+//最大子段和 
 int MaxSum(int a[][20],int n){
 	int sum = 0,b = 0;
 	for(int i = 1;i < n;i++){
