@@ -1,5 +1,9 @@
 # 一、有无 static 的调用
 
++ static 修饰的成员变量和方法，从属于类。
+
++ 普通变量和方法从属于对象。
+
 ```java
 public class Test {
 
